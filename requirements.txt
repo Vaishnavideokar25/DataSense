@@ -1,0 +1,7 @@
+streamlit
+pandas
+numpy
+scikit-learn
+plotly
+google-genai>=2.3.0
+python-dotenv
